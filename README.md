@@ -1,5 +1,3 @@
-# hello-world
-just another repository
 #include<string>
 using namespace std;
 main()
@@ -7,4 +5,3 @@ main()
   a='df';
   cout<<a;
   }
-
